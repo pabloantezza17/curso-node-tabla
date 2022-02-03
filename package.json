@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.3.1"
+  },
+  "name": "01holamundo",
+  "version": "0.0.1",
+  "description": "Es una tabla de multiplicar",
+  "main": "app4.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "base3": "node app4 --base=3"
+  },
+  "author": "Pablo Antezza",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
